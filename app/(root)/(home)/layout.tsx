@@ -1,8 +1,15 @@
 import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
+import { Metadata } from "next";
 import React from "react";
 
-type Props = {};
+export const metadata: Metadata = {
+  title: "Your personal meeting | Zoom",
+  description: "A Meeting App",
+  icons: {
+    icon: "/icons/logo.svg",
+  },
+};
 
 const HomeLayout = ({ children }: { children: React.ReactNode }) => {
   return (
