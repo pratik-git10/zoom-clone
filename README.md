@@ -2,6 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
 First, run the development server:
 
 ```bash
@@ -18,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-This project uses [`
+
 
 ## Learn More
 
